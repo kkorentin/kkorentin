@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 Actuellement j'apprend le machine leraning avec un cours complet sur Udemy
 <!--
 **kkorentin/kkorentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

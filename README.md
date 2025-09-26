@@ -1,6 +1,6 @@
 ## Bonjour à vous 👋
 
-Je suis  Korentin
+Je suis  Korentin 
 👨‍💻 Tech enthusiast, développeur full-stack & ingénieur data
 Passionné par l’IA, le développement web et l’innovation.
 
@@ -22,7 +22,7 @@ Arduino, HTML/PHP/Java.
 Retrouve plus de projets sur mon GitHub.
 
 ### 🔧 Compétences tech
-Back-end : Java, Python, Spring
-Front-end : React, NextJS, HTML/CSS, Angular, Flutter
-Data Science : XGBoost, Pandas, Numpy, Prompt Engineering, ML
-BDD : PostgreSQL, SQL Server, MySQL, NoSQL
+- Back-end : Java, Python, Spring
+- Front-end : React, NextJS, HTML/CSS, Angular, Flutter
+- Data Science : XGBoost, Pandas, Numpy, Prompt Engineering, ML
+- BDD : PostgreSQL, SQL Server, MySQL, NoSQL

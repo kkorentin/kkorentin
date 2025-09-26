@@ -1,7 +1,6 @@
 ## Bonjour à vous 👋
 
-Je suis  Korentin 
-👨‍💻 Tech enthusiast, développeur full-stack & ingénieur data
+Je suis  Korentin 👨‍💻 et je suis développeur full-stack.
 Passionné par l’IA, le développement web et l’innovation.
 
 ## Qui suis-je ?

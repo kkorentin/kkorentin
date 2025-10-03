@@ -10,7 +10,7 @@ Recherche d’opportunités dans le dev et la data, sur Lille/distanciel.
 ## 🚀 Projets phares
 ### Prédiction solaire avec IA (ISEN 2025)
 IA Python/Pytorch pour prédire la production photovoltaïque.
-### Correction d'une application web et POC sur l'IA
+### Correction d'une application web et POC sur l'IA [Infotel]
 Stack React/Spring/Docker,MongoDB, gestion du Back & Front, création de POC en IA (Machine learning/Prompt Engineering)
 ### App mobile Sport [Infotel]
 Stack Flutter/Spring/Postgres, gestion du Back & Front, dashboard en temps réel.

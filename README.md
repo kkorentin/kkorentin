@@ -7,11 +7,13 @@ Passionné par l’IA, le développement web et l’innovation.
 Ingénieur du numérique récemment diplômé, spécialise en React, Spring, Flutter et Machine Learning. Autonome, curieux, motivé, j’adore explorer de nouvelles technos et contribuer à des projets ouverts.
 Recherche d’opportunités dans le dev et la data, sur Lille/distanciel.
 
-## 🚀 Projets phares
+## 🚀 Projets phares 
 ### Farming Game 
 Projet d'un mini jeu de ferme avec Udemy et C#
 ### Portfolio
 Portfolio développé en React (en cours)
+
+## 🚀 Expériences phares 
 ### Prédiction solaire avec IA (ISEN 2025)
 IA Python/Pytorch pour prédire la production photovoltaïque.
 ### Correction d'une application web et POC sur l'IA [Infotel]

@@ -8,6 +8,10 @@ Ingénieur du numérique récemment diplômé, spécialise en React, Spring, Flu
 Recherche d’opportunités dans le dev et la data, sur Lille/distanciel.
 
 ## 🚀 Projets phares
+### Farming Game 
+Projet d'un mini jeu de ferme avec Udemy et C#
+### Portfolio
+Portfolio développé en React (en cours)
 ### Prédiction solaire avec IA (ISEN 2025)
 IA Python/Pytorch pour prédire la production photovoltaïque.
 ### Correction d'une application web et POC sur l'IA [Infotel]
